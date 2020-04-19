@@ -1,2 +1,0 @@
-# DevConnect
-Created with CodeSandbox
